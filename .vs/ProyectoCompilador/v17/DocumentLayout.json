@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\users\\daniel\\desktop\\c#\\proyectocompilador\\proyectocompilador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\users\\daniel\\desktop\\c#\\proyectocompilador\\proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\users\\daniel\\desktop\\c#\\proyectocompilador\\proyectocompilador\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simbolo.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Simbolo.cs",
+              "RelativeDocumentMoniker": "ProyectoCompilador\\Simbolo.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Simbolo.cs",
+              "RelativeToolTip": "ProyectoCompilador\\Simbolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:30:43.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lexico.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Lexico.cs",
+              "RelativeDocumentMoniker": "ProyectoCompilador\\Lexico.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Lexico.cs",
+              "RelativeToolTip": "ProyectoCompilador\\Lexico.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:29:49.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCompilador\\Program.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Program.cs",
+              "RelativeToolTip": "ProyectoCompilador\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:29:11.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\bin\Debug\net8.0\ProyectoCompilador.exe
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\bin\Debug\net8.0\ProyectoCompilador.deps.json
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\bin\Debug\net8.0\ProyectoCompilador.runtimeconfig.json
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\bin\Debug\net8.0\ProyectoCompilador.dll
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\bin\Debug\net8.0\ProyectoCompilador.pdb
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.dll
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\refint\ProyectoCompilador.dll
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.pdb
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ProyectoCompilador.genruntimeconfig.cache
+C:\Users\DANIEL\Desktop\C#\ProyectoCompilador\ProyectoCompilador\obj\Debug\net8.0\ref\ProyectoCompilador.dll
