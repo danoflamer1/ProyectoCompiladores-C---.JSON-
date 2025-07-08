@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\",
+  "WorkspaceRootPath": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\users\\daniel\\desktop\\c#\\proyectocompilador\\proyectocompilador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\users\\daniel\\desktop\\c#\\proyectocompilador\\proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\generadorcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\generadorcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\users\\daniel\\desktop\\c#\\proyectocompilador\\proyectocompilador\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\sintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\sintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\simbolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,34 +30,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "GeneradorCodigo.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\GeneradorCodigo.cs",
+              "RelativeDocumentMoniker": "ProyectoCompilador\\GeneradorCodigo.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\GeneradorCodigo.cs",
+              "RelativeToolTip": "ProyectoCompilador\\GeneradorCodigo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:20:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sintactico.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Sintactico.cs",
+              "RelativeDocumentMoniker": "ProyectoCompilador\\Sintactico.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Sintactico.cs",
+              "RelativeToolTip": "ProyectoCompilador\\Sintactico.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAlwGsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:48:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Simbolo.cs",
-              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Simbolo.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Simbolo.cs",
               "RelativeDocumentMoniker": "ProyectoCompilador\\Simbolo.cs",
-              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Simbolo.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Simbolo.cs",
               "RelativeToolTip": "ProyectoCompilador\\Simbolo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T19:30:43.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lexico.cs",
-              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Lexico.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Lexico.cs",
               "RelativeDocumentMoniker": "ProyectoCompilador\\Lexico.cs",
-              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Lexico.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Lexico.cs",
               "RelativeToolTip": "ProyectoCompilador\\Lexico.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswEkAAAAVAAAAAAAAAA==",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T19:29:49.398Z",
               "EditorCaption": ""
@@ -58,11 +96,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Program.cs",
+              "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoCompilador\\Program.cs",
-              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\C#\\ProyectoCompilador\\ProyectoCompilador\\Program.cs",
+              "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Program.cs",
               "RelativeToolTip": "ProyectoCompilador\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T19:29:11.832Z",
               "EditorCaption": ""
