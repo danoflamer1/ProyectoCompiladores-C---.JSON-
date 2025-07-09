@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\generadorcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\generadorcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\lexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\generadorcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|solutionrelative:proyectocompilador\\generadorcodigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91FA250C-E608-48C0-B913-CE77F48C6A90}|ProyectoCompilador\\ProyectoCompilador.csproj|c:\\fni\\inf 3631\\proyectocompiladores-c---.json-\\proyectocompilador\\sintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,16 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GeneradorCodigo.cs",
               "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\GeneradorCodigo.cs",
               "RelativeDocumentMoniker": "ProyectoCompilador\\GeneradorCodigo.cs",
               "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\GeneradorCodigo.cs",
               "RelativeToolTip": "ProyectoCompilador\\GeneradorCodigo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T03:20:15.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T03:20:15.652Z"
             },
             {
               "$type": "Document",
@@ -61,10 +60,9 @@
               "RelativeDocumentMoniker": "ProyectoCompilador\\Sintactico.cs",
               "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Sintactico.cs",
               "RelativeToolTip": "ProyectoCompilador\\Sintactico.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAlwGsAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T23:48:10.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T23:48:10.012Z"
             },
             {
               "$type": "Document",
@@ -76,21 +74,19 @@
               "RelativeToolTip": "ProyectoCompilador\\Simbolo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:30:43.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T19:30:43.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Lexico.cs",
               "DocumentMoniker": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Lexico.cs",
               "RelativeDocumentMoniker": "ProyectoCompilador\\Lexico.cs",
               "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Lexico.cs",
               "RelativeToolTip": "ProyectoCompilador\\Lexico.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEkAAAAVAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwEkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:29:49.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T19:29:49.398Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "ProyectoCompilador\\Program.cs",
               "ToolTip": "C:\\FNI\\INF 3631\\ProyectoCompiladores-C---.JSON-\\ProyectoCompilador\\Program.cs",
               "RelativeToolTip": "ProyectoCompilador\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBQAAAAjAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T19:29:11.832Z",
               "EditorCaption": ""
